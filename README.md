@@ -1,4 +1,4 @@
-# App-sekection-by-hand-gesture
+# App-selection-by-hand-gesture
 
 The provided code is a Python script that uses computer vision and hand gesture recognition to control the opening of various web applications using the MediaPipe library for hand tracking and OpenCV for webcam access. Here's a short description of what the code does:
 
